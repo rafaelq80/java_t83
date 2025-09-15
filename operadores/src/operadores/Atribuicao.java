@@ -6,7 +6,7 @@ public class Atribuicao {
 		
 		int numero = 4;
 		
-		System.out.println(numero *= 2);
+		System.out.println(numero += 2);
 		//System.out.println(numero = numero + 2);
 	}
 
