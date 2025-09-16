@@ -18,6 +18,7 @@ public class Texto {
 		leia.skip("\\R");
 		texto = leia.nextLine();
 		
+		System.out.println("O número digitado foi: " + numero);
 		System.out.println("A String digitada foi: " + texto);
 		
 		leia.close();

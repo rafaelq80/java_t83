@@ -38,7 +38,7 @@ public class Horoscopo {
 			break;
 
 		case 2:
-			System.out.println("Aquário: Inove com colaboração — compartilhe suas ideias e ouça perspectivas diferentes para evoluir.");
+		System.out.println("Aquário: Inove com colaboração — compartilhe suas ideias e ouça perspectivas diferentes para evoluir.");
 			break;
 
 		case 3:
