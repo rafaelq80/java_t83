@@ -2,7 +2,7 @@ package repeticoes;
 
 import java.util.Scanner;
 
-public class Menu {
+public class TabuadaDoWhile {
 
 	public static void main(String[] args) {
 		
