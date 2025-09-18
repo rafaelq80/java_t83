@@ -1,6 +1,7 @@
 package colecoes;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 
 public class Lista {
 
@@ -14,9 +15,19 @@ public class Lista {
 		numeros.add(10);
 		numeros.add(5);
 		
-		for(int contador = 1; contador <= 10; contador ++) {
+		/*for(int contador = 1; contador <= 10; contador ++) {
 			numeros.add(contador);
-		}
+		}*/
+		
+		System.out.println(numeros);
+		
+		// Ordenação Crescente
+		numeros.sort(null);
+		
+		System.out.println(numeros);
+		
+		// Ordenação Decrescente
+		numeros.sort(Comparator.reverseOrder());
 		
 		System.out.println(numeros);
 		
