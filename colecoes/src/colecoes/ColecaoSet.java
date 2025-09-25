@@ -51,7 +51,7 @@ public class ColecaoSet {
 		// Lista os dados do ArrayList
 		System.out.println(frutasList);
 		
-		// Ordenação dos dados em Ordem Decrescente
+		// Ordenação dos dados em Ordem Decrescente ()
 		frutasList.sort(Comparator.reverseOrder());
 
 		System.out.println(frutasList);

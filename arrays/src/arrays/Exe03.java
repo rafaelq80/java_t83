@@ -25,6 +25,7 @@ public class Exe03 {
 		// Listar e somar os elementos da Diagonal Principal
 		// Na Diagonal principal os índices dos elementos são iguais
 		// Exemplo: 0,0
+		// Teste
 		for(int indice = 0; indice < matriz.length; indice ++) {
 			diagonalPrincipal += matriz[indice][indice] + " ";
 			somaPrincipal += matriz[indice][indice];
