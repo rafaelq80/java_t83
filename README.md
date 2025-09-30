@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/github/repo-size/rafaelq80/java_t83?style=flat-square" />
   <img src="https://img.shields.io/github/languages/count/rafaelq80/java_t83?style=flat-square" />
   <img src="https://img.shields.io/github/last-commit/rafaelq80/java_t83?style=flat-square" />
-  <img src="https://img.shields.io/github/issues/rafaelq80java_t83?style=flat-square" />
+  <img src="https://img.shields.io/github/issues/rafaelq80/java_t83?style=flat-square" />
   <img src="https://img.shields.io/github/issues-pr/rafaelq80/java_t83?style=flat-square" />
 </div>
 
